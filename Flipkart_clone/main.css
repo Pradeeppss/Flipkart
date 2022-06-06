@@ -1,0 +1,21 @@
+*{
+    margin: 0px;
+}
+.header{
+    background-color: rgb(90, 20, 255);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+}
+.name1{
+    font-size: 22px;
+    font-family: poppins;
+    font-style: italic;
+}
+.name2{
+    font-size: 12px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: normal;
+    font-style: italic;
+}
